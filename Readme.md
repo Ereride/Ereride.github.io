@@ -1,8 +1,11 @@
 # Virkkaus
 
-&nbsp;&nbsp;&nbsp;&nbsp;Virkkauksen ihmeelliseen maailmaan astellessani olen kuin virran vietävänä – tai oikeastaan koukun vietävänä! Tämä uusi tuttavuus on napannut minut mukaansa, aivan kuin virkkauskoukku tempaisisi langan mukanaan. Nyt, kun satunnaista aikaa löytyy, haaveilen oman pienen käsityönettikaupan perustamisesta, jossa voisin myydä itse tekemiäni taidonnäytteitä.  
-&nbsp;&nbsp;&nbsp;&nbsp;Mietin, mitä ihmettä voisin loihtia, mikä hurmaisi ihmisiä ostamaan. Tarroja, vihkoja, kaiverruksia, koruja – kaikki nämä kävivät mielessäni, mutta kaipasin vielä pientä ekstraa. Olen jo pitkään haaveillut neulomisen ja virkkaamisen opettelusta. Kokeilin vuoden 2023 alussa neulontaa, mutta se päättyi lähinnä epätoivoiseen rannelämmittimien yritykseen. Eipä niistä mitään tullut.  
+&nbsp;&nbsp;&nbsp;&nbsp;Virkkauksen ihmeelliseen maailmaan astellessani olen kuin virran vietävänä – tai oikeastaan koukun vietävänä! Tämä uusi tuttavuus on napannut minut mukaansa, aivan kuin virkkauskoukku tempaisisi langan mukanaan. Nyt, kun satunnaista aikaa löytyy, haaveilen oman pienen käsityönettikaupan perustamisesta, jossa voisin myydä itse tekemiäni taidonnäytteitä.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Mietin, mitä ihmettä voisin loihtia, mikä hurmaisi ihmisiä ostamaan. Tarroja, vihkoja, kaiverruksia, koruja – kaikki nämä kävivät mielessäni, mutta kaipasin vielä pientä ekstraa. Olen jo pitkään haaveillut neulomisen ja virkkaamisen opettelusta. Kokeilin vuoden 2023 alussa neulontaa, mutta se päättyi lähinnä epätoivoiseen rannelämmittimien yritykseen. Eipä niistä mitään tullut.
+
 &nbsp;&nbsp;&nbsp;&nbsp;Vuoden lopulla päätin kuitenkin kokeilla jotain uutta, ja amigurumi astui kuvaan. Etsin aloittelijaystävällisiä ohjeita YouTubesta, ja siellähän se oli: kilpikonnan ohje. Ehkä olisi ollut parempi jättää se klikkaamatta, sillä nyt olen virkkauksen pauloissa!  
+
 &nbsp;&nbsp;&nbsp;&nbsp;Olen huomannut, että teen paljon ohjeiden mukaan ja saan aikaan ihan kivaa jälkeä, mutta tämä virkkaustermistö on kuin kiinalainen sokkelo minulle. Puhutaan pisteistä, ja olen ihan kuin "mikä"? Mutta kun näen, niin sanon: "Ai, se on tuo! Olisit heti sanonut!" Nyt vain virkkauskoukku heilumaan ja lankoja liikkeelle – katsotaan, mikä seuraavaksi putoaa koukulta!
 
 

@@ -1,4 +1,4 @@
-# Virkkaus
+# Virkkaus <sub>Minnan testisivu</sub>
 
 &nbsp;&nbsp;Astuessani virkkauksen ihmeelliseen maailmaan tunnen olevani kuin virran vietävänä - tai oikeastaan koukun vietävänä! Tämä uusi tuttavuus on napannut minut mukaansa aivan kuin virkkauskoukku tempaisisi langan mukanaan. Innostus virkkaamiseen syttyi pitkäaikaisesta haaveestani oppia sekä neulontaa että virkkaamista. Alkuvuodesta 2023 kokeilin neulomista, mutta se päättyi lähinnä epätoivoisiin yrityksiin tehdä rannelämmittimiä. Eipä niistä tullut mitään. Vuoden lopulla päätin kuitenkin kokeilla jotain uutta, ja amigurumi astui kuvioihin.
 
@@ -28,7 +28,7 @@ Ensimmäinen mitä tein virkkaamalla oli amigurumi kilpikonna ja näitä olen t�
 
 Seuraavaksi kaipasin vähän erilaista ja tein norsun jolla olla käänneltävät jalat. Alla linkki ohjeeseen ja kuva lopputuloksesta.  
 [*Norsun ohje osa 1*](https://www.youtube.com/watch?v=TWbvl2VYziM&t=1322s)  
-[Norsun ohje osa 2](https://www.youtube.com/watch?v=2mAB_g3ypAA&t=1210s&ab_channel=RoseandLilyCrochet)  
+[*Norsun ohje osa 2*](https://www.youtube.com/watch?v=2mAB_g3ypAA&t=1210s&ab_channel=RoseandLilyCrochet)  
 ![Norsu](/img/norsu.png)
 
 #### Saukko
@@ -42,3 +42,5 @@ No tämä projekti on vaiheessa. Yhden sukan sain valmiiksi mutta siitä ei tull
 [*Villasukka ohje*](https://www.youtube.com/watch?v=cbYlSkHPWOQ&list=PLtYUm7noTAb1rCYPpjazt1AEVJ-K0hRnl&index=3&ab_channel=TheSnugglery)  
 ![Valmis villasukka](/img/villasukka1.png)
 ![Keskeneräinen villasukka](/img/villasukka2.png)
+
+_Tässä oli tällainen pikku testisivu vaikuttaisi toimivan, toivottavasti myös muilla_ :D

@@ -1,4 +1,9 @@
 
+---
+layout: default
+title: virkkaus
+---
+
 # Virkkaus  
 
 &nbsp;&nbsp;Astuessani virkkauksen ihmeelliseen maailmaan tunnen olevani kuin virran vietävänä - tai oikeastaan koukun vietävänä! Tämä uusi tuttavuus on napannut minut mukaansa aivan kuin virkkauskoukku tempaisisi langan mukanaan. Innostus virkkaamiseen syttyi pitkäaikaisesta haaveestani oppia sekä neulontaa että virkkaamista. Alkuvuodesta 2023 kokeilin neulomista, mutta se päättyi lähinnä epätoivoisiin yrityksiin tehdä rannelämmittimiä. Eipä niistä tullut mitään. Vuoden lopulla päätin kuitenkin kokeilla jotain uutta, ja amigurumi astui kuvioihin.

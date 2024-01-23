@@ -1,5 +1,5 @@
-# Virkkaus   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>Minnan testisivu</sup>
+# Virkkaus  
+
 &nbsp;&nbsp;Astuessani virkkauksen ihmeelliseen maailmaan tunnen olevani kuin virran vietävänä - tai oikeastaan koukun vietävänä! Tämä uusi tuttavuus on napannut minut mukaansa aivan kuin virkkauskoukku tempaisisi langan mukanaan. Innostus virkkaamiseen syttyi pitkäaikaisesta haaveestani oppia sekä neulontaa että virkkaamista. Alkuvuodesta 2023 kokeilin neulomista, mutta se päättyi lähinnä epätoivoisiin yrityksiin tehdä rannelämmittimiä. Eipä niistä tullut mitään. Vuoden lopulla päätin kuitenkin kokeilla jotain uutta, ja amigurumi astui kuvioihin.
 
 &nbsp;&nbsp;Etsiessäni aloittelijaystävällisiä ohjeita YouTubesta törmäsin kilpikonnan ohjeeseen. Ehkä olisi ollut parempi olla klikkaamatta sitä, sillä nyt olen virkkauksen pauloissa!
@@ -43,4 +43,4 @@ No tämä projekti on vaiheessa. Yhden sukan sain valmiiksi mutta siitä ei tull
 ![Valmis villasukka](/img/villasukka1.png)
 ![Keskeneräinen villasukka](/img/villasukka2.png)
 
-_Tässä oli tällainen pikku testisivu vaikuttaisi toimivan, toivottavasti myös muilla_ :D
+_Tässä oli tällainen pikku testisivu vaikuttaisi toimivan, toivottavasti myös muilla_ <sub>Minnan testisivu</sub>

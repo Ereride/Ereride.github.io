@@ -16,7 +16,7 @@ Aloitin virkkaamisen vuoden 2023 loka-marraskuussa ja se vei samantien mennessä
 
 Ensimmäinen mitä tein virkkaamalla oli amigurumi kilpikonna ja näitä olen tähän mennessä tehnyt viisi. Alla on linkki videon jonka opastuksella tein sen ja myös kuvia tekemistäni.  
 [Kilpikonna ohje](https://www.youtube.com/watch?v=MFx9RVZBRw0&t=1886s&ab_channel=TheMaryJay)  
-![Kilpikonna](/img/kilppari.png | width=100)
+![Kilpikonna](/img/kilppari.png)
 ![Kilpikonnat](/img/kilpparit.png)
 
 #### Norsu
@@ -35,5 +35,5 @@ Olimme menossa 11 vuotiaan tytön synttäreille ja halusin tehdä jotain erilais
 
 No tämä projekti on vaiheessa. Yhden sukan sain valmiiksi mutta siitä ei tullut hyvä xD. Nyt olen tekemässä toista ja se vaikuttaa paremmalta laitan linkin ohjeeseen ja kuvat tämän hetken tilanteesta.  
 [Villasukka ohje](https://www.youtube.com/watch?v=cbYlSkHPWOQ&list=PLtYUm7noTAb1rCYPpjazt1AEVJ-K0hRnl&index=3&ab_channel=TheSnugglery)  
-![Valmis villasukka](/img/villasukka1.png | width=100)
+![Valmis villasukka](/img/villasukka1.png)
 ![Keskeneräinen villasukka](/img/villasukka2.png)
